@@ -13,3 +13,5 @@ Agrega el o los archivos para ser enviados al repositorio
 - git push
 
 -git branch nombre_del_branch
+
+- tpm
