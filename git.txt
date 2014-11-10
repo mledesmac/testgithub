@@ -1,0 +1,13 @@
+- git clone url
+Clona el proyecto en la carpeta en donde se encuentre la termina
+Sugiero ponerlo en documents
+
+-git status
+Nos muestra la diferencia entre mi repositoria local y lo que se encuentra en repositoro de la "nube"
+
+- git add archivo / git add -A  todos los archivos
+Agrega el o los archivos para ser enviados al repositorio
+
+- git commit
+
+- git push
